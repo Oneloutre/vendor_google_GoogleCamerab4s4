@@ -1,5 +1,5 @@
 android_app_import {
-        name: "GoogleCamera",
+        name: "GoogleCamera_b1c1",
         owner: "google",
         apk: "GoogleCamera.apk",
         overrides: ["Aperture", "Camera2"],
