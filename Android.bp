@@ -3,7 +3,7 @@ android_app_import {
         owner: "google",
         apk: "GoogleCamera.apk",
         overrides: ["Aperture", "Camera2"],
-        preprocessed: true,
+        preprocessed: false,
         presigned: true,
         dex_preopt: {
                 enabled: false,
