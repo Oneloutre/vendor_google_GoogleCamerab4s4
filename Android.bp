@@ -1,5 +1,5 @@
 android_app_import {
-        name: "GoogleCamera_hotdogb",
+        name: "Camera_hotdogb",
         owner: "oneplus",
         apk: "OOSCam.apk",
         overrides: ["Aperture", "Camera2"],
