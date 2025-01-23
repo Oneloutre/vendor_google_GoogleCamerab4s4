@@ -1,2 +1,2 @@
 PRODUCT_PACKAGES += \
-    Camera_hotdogb
+    Camera_hotdog
